@@ -27,14 +27,18 @@ Users should be able to:
 
 ### Screenshot
 
+<<<<<<< HEAD
 ![](./screenshot.png)
+=======
+![](screenshot.png)
+>>>>>>> 072adc88d5d176cfb24f70e3868963ada314304c
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://odari-d.github.io/Frontend-Mentor-solution-1)
+- Live Site URL: [Add live site URL here](https://odari-d.github.io/Frontend-Mentor-solution-1/)
 
 
 ### Built with
