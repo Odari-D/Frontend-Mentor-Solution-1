@@ -15,7 +15,7 @@ margin-bottom: 40px;
 body{
     height: auto;
     max-width: 1440px;
-    background-image: url(./images/bg-desktop.svg);
+    background-image: url(/images/bg-desktop.svg);
     background-color:hsl(257, 40%, 49%) ;
     background-attachment: fixed;
     background-size: cover;
