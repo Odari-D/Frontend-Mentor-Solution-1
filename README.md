@@ -50,4 +50,3 @@ Progressively I will start to work on my Responsive Design skills.
 
 - Frontend Mentor - [@Odari-D](https://www.frontendmentor.io/profile/Odari-D)
 - Twitter - [@DerrickAtongo](https://www.twitter.com/DerrickAtongo)
-*
