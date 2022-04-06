@@ -19,8 +19,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://odari-d.github.io/Frontend-Mentor-solution-1)
-- Live Site URL: [Add live site URL here](https://odari-d.github.io/Frontend-Mentor-solution-1/)
+- Solution URL: [My solution](https://odari-d.github.io/Frontend-Mentor-solution-1)
+- Live Site URL: [Live site](https://odari-d.github.io/Frontend-Mentor-solution-1/)
 
 
 ### Built with
