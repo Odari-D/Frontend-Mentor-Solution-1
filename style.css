@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
 }
+/* The nav bar  */
 .navigation img{
     width: 10em;
     margin-left: 52px;
@@ -51,7 +52,7 @@ article p{
 }
 article button{
     margin-top: 2em;
-    padding: 8px 30px;
+    padding: 8px 30px\;
     border-radius: 20px;
     border: none;
     font-family: 'Poppins', sans-serif;
