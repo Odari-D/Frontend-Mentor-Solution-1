@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 ![Design preview for the Clipboard landing page coding challenge](./images/desktop-preview.jpg)
 
@@ -13,32 +13,14 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the page depending on their device's screen size
-- See hover states for all interactive elements on the page
-
-### Screenshot
-
-<<<<<<< HEAD
-![](./screenshot.png)
-=======
-![](screenshot.png)
->>>>>>> 072adc88d5d176cfb24f70e3868963ada314304c
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://odari-d.github.io/Frontend-Mentor-solution-1)
-- Live Site URL: [Add live site URL here](https://odari-d.github.io/Frontend-Mentor-solution-1/)
+- Solution URL: [My solution](https://odari-d.github.io/Frontend-Mentor-solution-1)
+- Live Site URL: [Live site](https://odari-d.github.io/Frontend-Mentor-solution-1/)
 
 
 ### Built with
@@ -64,8 +46,7 @@ body {
 
 Progressively I will start to work on my Responsive Design skills.
 
-## Author
+
 
 - Frontend Mentor - [@Odari-D](https://www.frontendmentor.io/profile/Odari-D)
 - Twitter - [@DerrickAtongo](https://www.twitter.com/DerrickAtongo)
-*
